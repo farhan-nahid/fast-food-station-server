@@ -1,0 +1,54 @@
+{
+  "order_id": "123QWE",
+  "restaurant": {
+    "name": "Fast Food Station",
+    "street": "987 Dhoni Colony",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zipcode": "560106"
+  },
+  "items": [
+    {
+      "name": "Veg Cheese Burger",
+      "category": "Burgers",
+      "price": 150,
+      "currency": "INR",
+      "tax_pct": 2.5,
+      "quantity": 2
+    },
+    {
+      "name": "Chicken Burger",
+      "category": "Burgers",
+      "price": 250,
+      "currency": "INR",
+      "tax_pct": 2.5,
+      "quantity": 2
+    },
+    {
+      "name": "Paneer Chilli",
+      "category": "Indo-Chinese (Veg)",
+      "price": 220,
+      "currency": "INR",
+      "tax_pct": 2.5,
+      "quantity": 1
+    },
+    {
+      "name": "Chicken Manchurian",
+      "category": "Indo-Chinese (Non-Veg)",
+      "price": 250,
+      "currency": "INR",
+      "tax_pct": 2.5,
+      "quantity": 1
+    }
+  ],
+  "user": {
+    "name": "Kumba",
+    "id": "0987658",
+    "address": "3797 6th Cross Rd, HSR Layout, Bangalore, Karnataka, 560056",
+    "phone": "+916666666666",
+    "about": "I'm a food Genie helping out customets in my own way",
+    "likes": ["Chicken", "Beer", "Spicy"],
+    "dislikes": ["Fish", "Rum", "Oriental"]
+  },
+  "createdAt": "2021-05-11T12:48:05.605Z"
+}

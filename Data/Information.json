@@ -1,0 +1,14 @@
+[
+  {
+    "user": {
+      "name": "Kumba",
+      "img": "https://i.ibb.co/T4cKd9c/Kumba.jpg",
+      "id": "0987658",
+      "address": "3797 6th Cross Rd, HSR Layout, Bangalore, Karnataka, 560056",
+      "phone": "+916666666666",
+      "about": "I'm a food Genie helping out customets in my own way",
+      "likes": ["Chicken", "Beer", "Spicy"],
+      "dislikes": ["Fish", "Rum", "Oriental"]
+    }
+  }
+]
